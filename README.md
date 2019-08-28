@@ -1,20 +1,24 @@
 # Warmup
 
-18-341: Fall Semester of 2018
+18-341: Fall Semester of 2019
 
 ## Objective and Overview
 
-The purpose of this project is to brush off any dust that has accumulated on your SystemVerilog skills.  It's as much about getting an FPGA programming environment set up as anything else.  As such, this project is significantly simpler than any other course project; and, therefore, worth far fewer points.
+The purpose of this project is to brush off any dust that has accumulated on
+your SystemVerilog skills.  It's as much about getting an FPGA programming
+environment set up as anything else.  As such, this project is significantly
+simpler than any other course project; and, therefore, worth far fewer points.
 
-This is an **individual** project, to be done in simulation with VCS and on your Altera DE0-CV board.
+This is an **individual** project, to be done in simulation with VCS and on
+your Altera DE0-CV board.
 
 ## Schedule and Scoring
 
 Project value | 20 points
 --- | ---
-Project start | 28 Aug 2018
-Project due | 5 Sep 2018 at 12:30pm
-Drop dead date | 6 Sep 2018 at 12:30pm
+Project start | 28 Aug 2019
+Project due | 4 Sep 2019 at 12:30pm
+Drop dead date | 5 Sep 2019 at 12:30pm
 
 If you have not uploaded anything by the drop dead date, we will assume you
 are no longer in the course. Why? Because the syllabus says you must *attempt
@@ -23,7 +27,8 @@ you’ve done is not attempting the project — see the syllabus for details.
 
 By the way, using your grace day on Project 1 is a very bad idea.
 
-You will have a demonstration of your system in the days soon after the deadline.  Stay tuned for details on how to sign up for a demo slot.
+You will have a demonstration of your system in the days soon after the
+deadline.  Stay tuned for details on how to sign up for a demo slot.
 
 ## A Note about Collaboration
 
@@ -113,12 +118,12 @@ module tatb // header for our hardware testbench
 
 Just to make sure you've thought this through, let me ask a few questions. 
  
-* Are you responsible for connecting tbSum to anything?  
+* Are you responsible for connecting **tbSum** to anything?  
 
-* Your thread's output value will be connected to outResult, as noted in
+* Your thread's output value will be connected to **outResult**, as noted in
 the comments above.  Should it be connected to anything else?  
 
-* Does the testbench handle the LEDG0 connection, or do you have to do that?  
+* Does the testbench handle the **LEDG0** connection, or do you have to do that?  
 
 If you are unsure about any of these answers, come talk to us before you start hacking away.
 
@@ -172,8 +177,8 @@ FPGA device type.
 ## How To Turn In Your Solution
 
 This semester we will be using
-[Github Classroom](https://classroom.github.com/classrooms/42654531-18-341-fall-2018)
-to hand-out as well as hand-in project code. Make sure to commit regularly and
+[Github Classroom](https://classroom.github.com/classrooms/31452665-18-341-fall2019)
+to hand-out as well as hand-in project code.  Make sure to commit regularly and
 provide informative messages, as this will help TAs immensely to provide
 feedback.
 
