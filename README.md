@@ -59,7 +59,9 @@ DVD or download it at http://fpgasoftware.intel.com.  The latest version
 of Quartus will work. If you have a Mac (lucky you), you will have to
 use a virtual machine (Parallels, VMware, etc).  You can, of course,
 just use the computers in the HH-1305 cluster (the “240 lab”) as well. 
-(Just don’t try to use them during 240 lab times!)
+(Just don’t try to use them during 240 lab times!)  Windows people will
+probably need to do something with the USB Blaster windows driver, which
+is available at: http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Installation_Instructions.
 
 ## Assignment Overview
 
