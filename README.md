@@ -127,7 +127,7 @@ Just to make sure you've thought this through, let me ask a few questions.
 * Your thread's output value will be connected to **outResult**, as noted in
 the comments above.  Should it be connected to anything else?  
 
-* Does the testbench handle the **LEDG0** connection, or do you have to do that?  
+* Does the testbench handle the **LEDR0** connection, or do you have to do that?  
 
 If you are unsure about any of these answers, come talk to us before you start hacking away.
 
