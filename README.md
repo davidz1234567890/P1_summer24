@@ -1,6 +1,6 @@
 # Warmup
 
-18-341: Fall Semester of 2020
+18-341: Fall Semester of 2021
 
 ## Objective and Overview
 
@@ -16,9 +16,9 @@ your Altera DE0-CV board.
 
 Project value | 20 points
 --- | ---
-Project start | 2 Sep 2020
-Project due | 9 Sep 2020 at 1:30pm
-Drop dead date | 10 Sep 2002 at 1:30pm
+Project start | 1 Sep 2021
+Project due | 8 Sep 2021 at 1:25pm
+Drop dead date | 9 Sep 2021 at 1:25pm
 
 If you have not uploaded anything by the drop dead date, we will assume you
 are no longer in the course. Why? Because the syllabus says you must *attempt
@@ -65,9 +65,7 @@ is available at: http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Instal
 
 ## Assignment Overview
 
-Go to the course hub to pick up your Altera DE0-CV kit.  Of course,
-this semester, some of you may
-be receiving the kit via snail mail.  BTW, you’ll be
+Go to the course hub to pick up your Altera DE0-CV kit.  BTW, you’ll be
 returning it to the same place at the end of the semester in exchange
 for a grade.
 
