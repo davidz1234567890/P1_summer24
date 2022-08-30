@@ -1,6 +1,6 @@
 # Warmup
 
-18-341: Fall Semester of 2021
+18-341: Fall Semester of 2022
 
 ## Objective and Overview
 
@@ -16,9 +16,9 @@ your Altera DE0-CV board.
 
 Project value | 20 points
 --- | ---
-Project start | 1 Sep 2021
-Project due | 8 Sep 2021 at 1:25pm
-Drop dead date | 9 Sep 2021 at 1:25pm
+Project start | 1 Sep 2022
+Project due | 7 Sep 2022 at 1:25pm
+Drop dead date | 8 Sep 2022 at 1:25pm
 
 If you have not uploaded anything by the drop dead date, we will assume you
 are no longer in the course. Why? Because the syllabus says you must *attempt
@@ -49,13 +49,14 @@ ask for help.
 Over the semester we’ll do several assignments (homeworks and/or
 projects) that are to be implemented and demonstrated on the Altera DE0-CV
 boards we’re giving you for the semester.  The kit you’ll receive
-contains the board, power supply, a DVD with lots of stuff including a
-development system.  The basic idea here is to install this software on
+contains the board, power supply, some cables, and the StormChaser
+daughter board (a peripheral board with lots of I/O).
+The basic idea here is to install the development software on
 your computer, run it to develop the system described here, and turn
 your code in, all before the due date. 
 
-The software is available for Windows and Linux.  Install it from the
-DVD or download it at http://fpgasoftware.intel.com.  The latest version
+The software is available for Windows and Linux.  Download it at 
+http://fpgasoftware.intel.com.  The latest version
 of Quartus will work. If you have a Mac (lucky you), you will have to
 use a virtual machine (Parallels, VMware, etc).  You can, of course,
 just use the computers in the HH-1305 cluster (the “240 lab”) as well. 
@@ -65,7 +66,8 @@ is available at: http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Instal
 
 ## Assignment Overview
 
-Go to the course hub to pick up your Altera DE0-CV kit.  BTW, you’ll be
+Go to the ECE Receiving Window (HH 1301) between 10 and 5pm
+to pick up your Altera DE0-CV kit.  BTW, you’ll be
 returning it to the same place at the end of the semester in exchange
 for a grade.
 
