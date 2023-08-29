@@ -1,6 +1,6 @@
 # Warmup
 
-18-341: Fall Semester of 2022
+18-341: Fall Semester of 2023
 
 ## Objective and Overview
 
@@ -16,9 +16,9 @@ your Altera DE0-CV board.
 
 Project value | 20 points
 --- | ---
-Project start | 1 Sep 2022
-Project due | 7 Sep 2022 at 1:25pm
-Drop dead date | 8 Sep 2022 at 1:25pm
+Project start | 1 Sep 2023
+Project due | 28 Aug 2023 at 12:30pm
+Drop dead date | 6 Sep 2023 at 12:30pm
 
 If you have not uploaded anything by the drop dead date, we will assume you
 are no longer in the course. Why? Because the syllabus says you must *attempt
@@ -56,8 +56,8 @@ your computer, run it to develop the system described here, and turn
 your code in, all before the due date. 
 
 The software is available for Windows and Linux.  Download it at 
-http://fpgasoftware.intel.com.  The latest version
-of Quartus will work. If you have a Mac (lucky you), you will have to
+http://fpgasoftware.intel.com.  Get the Quartus Prime Lite version. 
+If you have a Mac (lucky you), you will have to
 use a virtual machine (Parallels, VMware, etc).  You can, of course,
 just use the computers in the HH-1305 cluster (the “240 lab”) as well. 
 (Just don’t try to use them during 240 lab times!)  Windows people will
@@ -66,7 +66,7 @@ is available at: http://www.terasic.com.tw/wiki/Altera_USB_Blaster_Driver_Instal
 
 ## Assignment Overview
 
-Go to the ECE Receiving Window (HH 1301) between 10 and 5pm
+Go to the ECE Receiving Window (HH 1301) between 10-12 or 2-4pm
 to pick up your Altera DE0-CV kit.  BTW, you’ll be
 returning it to the same place at the end of the semester in exchange
 for a grade.
@@ -74,7 +74,7 @@ for a grade.
 Use the invitation link provided on Piazza to access and clone your
 GitHub repo.  The repo contains **sumitup.sv,** your starter code.  Also in
 the same repo are **tatb.qxp,** a hardware testbench, and **tatb.svp** an
-encrypted simulation testbench.  **DE0_CV_Default.qsf** is a pin definition
+encrypted simulation testbench.  **DE0\_CV\_Default.qsf** is a pin definition
 file for your board.  Write a **p1.sv** file to combine these files,
 together with possibly some other SV code and demonstrate the system
 running on your board.  Hmm, more information needed.
@@ -181,7 +181,7 @@ FPGA device type.
 ## How To Turn In Your Solution
 
 This semester we will be using
-[Github Classroom](https://classroom.github.com/classrooms/31452665-18-341-fall2019)
+[Github Classroom](https://classroom.github.com/classrooms/31452665-cmu-18341-fall23)
 to hand-out as well as hand-in project code.  Make sure to commit regularly and
 provide informative messages, as this will help TAs immensely to provide
 feedback.
