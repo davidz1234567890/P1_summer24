@@ -49,8 +49,7 @@ ask for help.
 Over the semester we’ll do several assignments (homeworks and/or
 projects) that are to be implemented and demonstrated on the Altera DE0-CV
 boards we’re giving you for the semester.  The kit you’ll receive
-contains the board, power supply, some cables, and the StormChaser
-daughter board (a peripheral board with lots of I/O).
+contains the board, power supply, and some cables.
 The basic idea here is to install the development software on
 your computer, run it to develop the system described here, and turn
 your code in, all before the due date. 
