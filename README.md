@@ -1,6 +1,6 @@
 # Warmup
 
-18-341: Fall Semester of 2023
+18-341: Fall Semester of 2024
 
 ## Objective and Overview
 
@@ -16,9 +16,9 @@ your Altera DE0-CV board.
 
 Project value | 20 points
 --- | ---
-Project start | 1 Sep 2023
-Project due | 28 Aug 2023 at 12:30pm
-Drop dead date | 6 Sep 2023 at 12:30pm
+Project start | 17 Jan 2024
+Project due | 23 Jan 2024 at 3:30pm
+Drop dead date | 24 Jan 2024 at 3:30pm
 
 If you have not uploaded anything by the drop dead date, we will assume you
 are no longer in the course. Why? Because the syllabus says you must *attempt
@@ -180,42 +180,51 @@ FPGA device type.
 ## How To Turn In Your Solution
 
 This semester we will be using
-[Github Classroom](https://classroom.github.com/classrooms/31452665-cmu-18341-fall23)
-to hand-out as well as hand-in project code.  Make sure to commit regularly and
+[Github Classroom](https://classroom.github.com/classrooms/31452665-18-341-spring24)
+to hand-out as well as hand-in project code.  We will post invitation links on Piazza whenever a project is posted.  I suppose you already know that, else you wouldn't have
+gotten this file from the repo.
+
+Make sure to commit regularly and
 provide informative messages, as this will help TAs immensely to provide
 feedback.
 
-When you have finished this project you should tag the release for submission
-and push your repo to GitHub.
+When you have finished this project you should:
 
-1. Tag the latest commit as "final"
-    ```sh
-    $ git tag -a final -m "Final submission for 18341 P1"
-    ```
 
-2. Check that the tag was created successfully
-    ```sh
-    $ git tag
-    final
-    ```
+1. Create a branch of the commit you want to submit, naming it as your final commit.
+   Commit it and push it to GitHub.  Sure, and tag it as well.
+  ```sh
+  $ git branch final
+  $ git commit -m "My final submission.  Yay, I'm done!"
+  $ git tag -a final -m "Final submission for 18341 P1"
+  $ git push --tags
+  ```
 
-3. Push repo to GitHub.
-    ```sh
-    $ git push --tags
-    ```
+2. Log onto Gradescope and select the P1: Warmup assignment.
 
-**If you need to alter your submission, remember to delete the tag**
+![Select Assignment](./Images/GS1_Select.png)
 
-Remotely:
-```sh
-$ git push --delete final
-```
+3. Submit via GitHub by linking your GitHub account.  I'm assuming you have a
+   GitHub account; if not, you should get one.  You will only need to do
+   this step once.  Future projects will already have this linkage in place.
+   
+   (a) **Please ensure the 18-341 class is selected,** otherwise you won't
+       be able to select your repository.  You may have to press "Request,"
+       and then you should see the checkmark next to the 18-341 organization.
 
-Locally:
-```sh
-$ git tag -d final
-```
+![Link Account](./Images/GS2_Linking.png)
+       
+4. Select the repository you want to submit.
 
+![Choose a repo](./Images/GS3_ChoseRepo.png)
+
+5. Select the "final" branch that you want to submit.
+
+6. Press submit!
+
+![Submit](./Images/GS4_Submit.png)
+
+**You aren't finished yet!** You will now submit the commit to Gradescope.
 ## Demos and Late Penalty
 
 We will have demo times outside of class times on or near the due date.  Since
