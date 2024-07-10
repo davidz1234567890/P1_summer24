@@ -39,7 +39,7 @@ logic done;// clock, reset_l, go_l;
    .go_l(go_l), 
    L0,         // L0 indicating sums match //not sure about this
    .outResult(Q));*/
-logic hello;
+
 
 endmodule: p1
 
